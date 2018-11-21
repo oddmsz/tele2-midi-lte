@@ -1,4 +1,4 @@
-DEVICE_TREE := device/tele2/midi_lte
+DEVICE_TREE := device/Tele2/Tele2_Midi_LTE
 
 # Bootloader
 TARGET_NO_BOOTLOADER := true
@@ -21,7 +21,7 @@ TARGET_2ND_CPU_ABI2 := armeabi
 TARGET_2ND_CPU_VARIANT := cortex-a7
 
 # Kernel
-TARGET_PREBUILT_KERNEL := device/tele2/midi_lte/kernel
+TARGET_PREBUILT_KERNEL := device/Tele2/Tele2_Midi_LTE/kernel
 BOARD_KERNEL_CMDLINE := bootopt=64S3,32N2,64N2
 BOARD_KERNEL_BASE := 0x40078000
 BOARD_KERNEL_PAGESIZE := 2048
