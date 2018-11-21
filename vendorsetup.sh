@@ -1,1 +1,1 @@
-add_lunch_combo omni_midi_lte-userdebug
+add_lunch_combo omni_Tele2_Midi_LTE-userdebug

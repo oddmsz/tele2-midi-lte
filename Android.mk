@@ -25,7 +25,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(TARGET_DEVICE),midi_lte)
+ifneq ($(TARGET_DEVICE),Tele2_Midi_LTE)
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 
